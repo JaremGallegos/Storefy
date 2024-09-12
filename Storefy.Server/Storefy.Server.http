@@ -1,0 +1,6 @@
+@Storefy.Server_HostAddress = http://localhost:5227
+
+GET {{Storefy.Server_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
